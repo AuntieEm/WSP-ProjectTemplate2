@@ -95,8 +95,8 @@ a {
     padding: 1rem;
     margin-top: 2rem;
     text-decoration: none;
-    display: block;
-    width: 25%;
+    display: inline-block;
+    width: auto;
     text-align: center;
     font-weight: 700;
     color: #3F4360;
@@ -104,4 +104,7 @@ a {
 a:hover {
     background-color: #3F4360;
     color: #EAEBDE;
+}
+img {
+    max-width: 100%;
 }
