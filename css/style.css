@@ -9,6 +9,10 @@
 /*dark purple: #3F4360*/
 /*cream: #EAEBDE*/
 
+/*TODO fix spacing between headers and paragraphs. group together better.*/
+/*fix alt tags. make more specific*/
+/*fix buttons. anchor tags as a modifier.*/
+
 html {
     max-width: 960px;
     margin: 0 auto;
